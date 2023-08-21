@@ -1,0 +1,15 @@
+.btn{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 3px;
+    border: 0;
+}
+
+.btn-primary {
+    background-color: purple;
+    color: white;
+    padding: 10px;
+    border-radius: 3px;
+    border: 0;
+}
